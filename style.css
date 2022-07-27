@@ -1,0 +1,103 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.line {
+  border-left: 4px black solid;
+  height: 50px;
+  width: 0px;
+}
+
+h3 {
+  color: #020076;
+}
+
+.button {
+  width: 94px;
+  height: 38px;
+  color: #fff;
+  top: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 30px;
+  border: none;
+  background: #020076;
+}
+button:hover {
+  background-color: #2b28da;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+}
+.pembatas {
+  height: 35px;
+  background: #020076;
+}
+
+.hero-img {
+  width: 1000px;
+  height: 500px;
+}
+
+.banner {
+  bottom: 110px;
+
+  height: 110px;
+
+  background: rgba(61, 51, 126, 0.8);
+  border-radius: 27px 27px 27px 27px;
+}
+
+.main-isi {
+  color: #fff;
+  font-size: 20px;
+  line-height: 36px;
+}
+
+.sub-isi {
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.news {
+  background-color: #c5c5c5;
+  bottom: 0px;
+}
+
+.main-2 {
+  font-size: 24px;
+  line-height: 42px;
+}
+
+.button-news {
+  width: 105px;
+  height: 48px;
+  top: 35px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 30px;
+  border: none;
+  background: #020076;
+}
+
+.ending {
+  font-family: "Roboto Mono", monospace;
+  color: #fff;
+  background-color: #3d337e;
+}
+
+.aktif {
+  width: 417px;
+  height: 239px;
+  background-color: #d9d9d9;
+}
+.kartu {
+  width: 21rem;
+}
+
+.kartu-img {
+  height: 300px;
+}

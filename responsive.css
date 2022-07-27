@@ -1,0 +1,89 @@
+@media screen and (max-width: 992px) {
+  .hero-img {
+    width: 500px;
+    height: 300px;
+  }
+  .banner {
+    bottom: 85px;
+    height: 85px;
+    background: rgba(61, 51, 126, 0.64);
+    border-radius: 20px 20px 20px 20px;
+  }
+
+  .kartu {
+    width: 14rem;
+  }
+
+  .kartu-img {
+    height: 200px;
+  }
+
+  .card-text {
+    font-size: 12px;
+  }
+
+  .main-2 {
+    font-size: 20px;
+  }
+
+  .card-title {
+    font-size: 16px;
+  }
+
+  .button-news {
+    width: 95px;
+    height: 44px;
+    top: 35px;
+    font-size: 12px;
+    margin-right: 10px;
+  }
+
+  .aktif {
+    width: 360px;
+    height: 265px;
+  }
+
+  .riwayat {
+    font-size: 16px;
+  }
+
+  .history-name {
+    font-size: 16px;
+  }
+
+  .ol {
+    font-size: 12px;
+  }
+
+  .button {
+    width: 87px;
+    height: 30px;
+    top: 20px;
+    font-size: 12px;
+  }
+
+  .main-name {
+    font-size: 18px;
+  }
+
+  .line {
+    border-left: 3px black solid;
+    height: 40px;
+    width: 0px;
+  }
+
+  .logo {
+    height: 60px;
+  }
+
+  .pembatas {
+    height: 22px;
+  }
+  .main-isi {
+    font-size: 12px;
+  }
+
+  .sub-isi {
+    font-size: 11px;
+  }
+}
