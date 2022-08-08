@@ -101,3 +101,59 @@ button:hover {
 .kartu-img {
   height: 300px;
 }
+
+.logo-login {
+  width: 120px;
+  top: -50px;
+}
+
+.card-login {
+  padding-top: 5em;
+}
+
+.input {
+  width: 428px;
+  height: 55px;
+
+  background: #d9d9d9;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-login {
+  width: 100px;
+  height: 40px;
+  border: none;
+  color: #fff;
+  font-family: "Quicksand", sans-serif;
+  background: #4962e3;
+}
+
+i.user {
+  position: relative;
+  color: #7c7c7c;
+  top: 3px;
+  right: 34px;
+  font-size: 22px;
+}
+
+i.pass {
+  position: relative;
+  color: #7c7c7c;
+  top: 3px;
+  right: 34px;
+  font-size: 22px;
+}
+
+.name {
+  font-family: "Quicksand", sans-serif;
+  font-size: 32px;
+}
+
+span.psw {
+  font-family: "Quicksand", sans-serif;
+}
+
+label.check {
+  font-family: "Quicksand", sans-serif;
+}
